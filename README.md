@@ -1,4 +1,8 @@
-# nist80053-sc7
+# NIST800-53 SC-7 Compliance Hardening
+
+<h2>Purpose</h2>
+
+
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/Lab%20diagram%201.png"/>
 
