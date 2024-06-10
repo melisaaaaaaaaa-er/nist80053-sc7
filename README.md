@@ -10,6 +10,8 @@
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/1.png"/>
 
+#
+
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/2.png"/>
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/3.png"/>
@@ -25,6 +27,8 @@
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/8.png"/>
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/9.png"/>
+
+#
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/10.png"/>
 
@@ -42,11 +46,15 @@
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/17.png"/>
 
+#
+
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/18.png"/>
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/19.png"/>
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/20.png"/>
+
+#
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/21.png"/>
 
@@ -54,11 +62,15 @@
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/23.png"/>
 
+#
+
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/24.png"/>
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/25.png"/>
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/26.png"/>
+
+#
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/27.png"/>
 
