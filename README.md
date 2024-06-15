@@ -106,21 +106,35 @@ For example, selecting the Linux VM NIC allows us to see the resources that are 
 
 #
 
+<h3>Test Key Vault Network Connectivity</h3>
+
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/21.png"/>
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/22.png"/>
 
+Using the Key Vault FQDN, perform an nslookup through the windows-vm. The IP address resolved for the Key Vault should be a private address as the KV and windows-vm are in the same sunbet.
+
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/23.png"/>
 
+Conduct an nslookup for the Key Vault again but on your host computer. It should resolve to a public IP address as your host computer is making contact with the Key Vault from the public Internet.
+
 #
+
+<h3>Test Storage Account Network Connectivity</h3>
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/24.png"/>
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/25.png"/>
 
+Conduct an nslookup for the Storage Account using its FQDN on windows-vm. As with the Key Vault, it should resolve to a private IP address also since, again, the SA and windows-vm are in the same subnet.
+
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/26.png"/>
 
+The same follows for conducting an nslookup via your host computer. It should resolve to a public IP address as contact is being made through the public Internet.
+
 #
+
+<h3>Enable and Configure NSG for the Subnet</h3>
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/27.png"/>
 
