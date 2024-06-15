@@ -1,4 +1,4 @@
-# NIST800-53 SC-7 Compliance Hardening
+# NIST800-53: SC-7 Compliance Hardening
 
 <h2>Purpose</h2>
 
