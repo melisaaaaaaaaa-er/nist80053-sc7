@@ -158,3 +158,8 @@ Configure an inbound rule allowing all traffic only from the public IP address o
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/nist80053-sc7-images/main/34.png"/>
 
 Repeat the same process for linux-vm.
+
+#
+<h3>Run Secure Environment for 24 Hours</h3>
+
+Now that security hardening has been done, once again run the environment exposed to the Internet for 24 hours so that it can collect attack attempts.
